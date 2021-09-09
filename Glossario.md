@@ -15,3 +15,4 @@ String
 ## Variáveis
 ## Bibliotecas
 ## Array
+## double
